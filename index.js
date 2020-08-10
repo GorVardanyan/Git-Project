@@ -1,4 +1,6 @@
 alert('Hello World');
 console.log('Hello World');
 confirm('Do you need to go on?')
-console.log(1 == true)
+if (1 == true) {
+    console.log('The condition is true')
+}
