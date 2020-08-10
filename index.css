@@ -10,3 +10,7 @@ h1 {
 p {
     margin: 10px;
 }
+
+input {
+    outline: none;
+}
